@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Dave-Matthew
 - 👀 I’m interested in coding and computer science
-- 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me ig: dave_matthew
+- 📫 How to reach me: davematthew2910@gmail.com
 
 <!---
 Dave-Matthew/Dave-Matthew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
